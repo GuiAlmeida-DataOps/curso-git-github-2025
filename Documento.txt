@@ -1,4 +1,4 @@
 cd - entra na pasta
 ls - mostra o que tem na pasta
 pwd - mostra todo o caminho atual
-mkdir - cria pasta
+mkdir - cria pasta no local
