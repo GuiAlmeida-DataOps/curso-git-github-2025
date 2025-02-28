@@ -11,3 +11,7 @@ Visual Studio Code.
 
 Confirta tudo o que temos no
 nosso Youtube. É grátis!
+
+Temos um participante:
+
+Guilherme Teo
