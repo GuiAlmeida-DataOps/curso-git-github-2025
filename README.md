@@ -14,6 +14,8 @@ nosso Youtube. É grátis! Segue o link:
 
 dgsdagfasdgafdsg
 
+Além do nosso Youtube, se liga no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025.
+
 Temos um participante:
 
 Guilherme Teo
