@@ -10,8 +10,12 @@ GitFlow ao final do curso e
 Visual Studio Code.
 
 Confirta tudo o que temos no
-nosso Youtube. É grátis!
+nosso Youtube. É grátis! Segue o link:
+
+dgsdagfasdgafdsg
 
 Temos um participante:
 
 Guilherme Teo
+Gui
+Gustavo
